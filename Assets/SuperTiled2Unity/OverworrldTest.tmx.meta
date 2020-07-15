@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: e30abdf37887a4589b7191e4f70a632c
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/OverworrldTest
+    100002: _MapPrfab/OverworrldTest/collision mask
+    100004: _MapPrfab/OverworrldTest/collision mask/Object_1
+    100006: _MapPrfab/OverworrldTest/collision mask/Object_2
+    100008: _MapPrfab/OverworrldTest/collision mask/Object_3
+    100010: _MapPrfab/OverworrldTest/collision mask/Object_4
+    100012: _MapPrfab/OverworrldTest/collision mask/Object_5
+    100014: _MapPrfab/OverworrldTest/collision mask/Object_6
+    100016: _MapPrfab/OverworrldTest/collision mask/Object_7
+    100018: _MapPrfab/OverworrldTest/collision mask/Object_8
+    100020: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon
+    100022: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (1)
+    100024: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (2)
+    100026: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (3)
+    100028: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (4)
+    100030: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (5)
+    100032: _MapPrfab/OverworrldTest/collision mask/Object_9
+    100034: _MapPrfab/OverworrldTest/collision mask/Object_10
+    100036: _MapPrfab/OverworrldTest/collision mask/Object_11
+    100038: _MapPrfab/OverworrldTest/Collisions
+    100040: _MapPrfab/OverworrldTest/Ground
+    400000: _MapPrfab/OverworrldTest/Transform
+    400002: _MapPrfab/OverworrldTest/collision mask/Transform
+    400004: _MapPrfab/OverworrldTest/collision mask/Object_1/Transform
+    400006: _MapPrfab/OverworrldTest/collision mask/Object_2/Transform
+    400008: _MapPrfab/OverworrldTest/collision mask/Object_3/Transform
+    400010: _MapPrfab/OverworrldTest/collision mask/Object_4/Transform
+    400012: _MapPrfab/OverworrldTest/collision mask/Object_5/Transform
+    400014: _MapPrfab/OverworrldTest/collision mask/Object_6/Transform
+    400016: _MapPrfab/OverworrldTest/collision mask/Object_7/Transform
+    400018: _MapPrfab/OverworrldTest/collision mask/Object_8/Transform
+    400020: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon/Transform
+    400022: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (1)/Transform
+    400024: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (2)/Transform
+    400026: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (3)/Transform
+    400028: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (4)/Transform
+    400030: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (5)/Transform
+    400032: _MapPrfab/OverworrldTest/collision mask/Object_9/Transform
+    400034: _MapPrfab/OverworrldTest/collision mask/Object_10/Transform
+    400036: _MapPrfab/OverworrldTest/collision mask/Object_11/Transform
+    400038: _MapPrfab/OverworrldTest/Collisions/Transform
+    400040: _MapPrfab/OverworrldTest/Ground/Transform
+    5000000: _MapPrfab/OverworrldTest/collision mask/Object_8/Rigidbody2D
+    6000000: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon/PolygonCollider2D
+    6000002: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (1)/PolygonCollider2D
+    6000004: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (2)/PolygonCollider2D
+    6000006: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (3)/PolygonCollider2D
+    6000008: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (4)/PolygonCollider2D
+    6000010: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (5)/PolygonCollider2D
+    6000012: _MapPrfab/OverworrldTest/collision mask/Object_10/PolygonCollider2D
+    6100000: _MapPrfab/OverworrldTest/collision mask/Object_1/BoxCollider2D
+    6100002: _MapPrfab/OverworrldTest/collision mask/Object_2/BoxCollider2D
+    6100004: _MapPrfab/OverworrldTest/collision mask/Object_3/BoxCollider2D
+    6100006: _MapPrfab/OverworrldTest/collision mask/Object_4/BoxCollider2D
+    6100008: _MapPrfab/OverworrldTest/collision mask/Object_5/BoxCollider2D
+    6100010: _MapPrfab/OverworrldTest/collision mask/Object_6/BoxCollider2D
+    6100012: _MapPrfab/OverworrldTest/collision mask/Object_7/BoxCollider2D
+    6100014: _MapPrfab/OverworrldTest/collision mask/Object_9/BoxCollider2D
+    6100016: _MapPrfab/OverworrldTest/collision mask/Object_11/BoxCollider2D
+    6600000: _MapPrfab/OverworrldTest/collision mask/Object_8/CompositeCollider2D
+    11400000: _MapPrfab/OverworrldTest/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/OverworrldTest/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/OverworrldTest/collision mask/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400006: _MapPrfab/OverworrldTest/collision mask/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/OverworrldTest/collision mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400010: _MapPrfab/OverworrldTest/collision mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400012: _MapPrfab/OverworrldTest/collision mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/OverworrldTest/collision mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400016: _MapPrfab/OverworrldTest/collision mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400018: _MapPrfab/OverworrldTest/collision mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/OverworrldTest/collision mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400022: _MapPrfab/OverworrldTest/collision mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400024: _MapPrfab/OverworrldTest/collision mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/OverworrldTest/collision mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400028: _MapPrfab/OverworrldTest/collision mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400030: _MapPrfab/OverworrldTest/collision mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400032: _MapPrfab/OverworrldTest/collision mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400034: _MapPrfab/OverworrldTest/collision mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400036: _MapPrfab/OverworrldTest/collision mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400038: _MapPrfab/OverworrldTest/collision mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400040: _MapPrfab/OverworrldTest/collision mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400042: _MapPrfab/OverworrldTest/collision mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400044: _MapPrfab/OverworrldTest/collision mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400046: _MapPrfab/OverworrldTest/collision mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400048: _MapPrfab/OverworrldTest/collision mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400050: _MapPrfab/OverworrldTest/collision mask/Object_8/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400052: _MapPrfab/OverworrldTest/collision mask/Object_8/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400054: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400056: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (1)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400058: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (2)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400060: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (3)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400062: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (4)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400064: _MapPrfab/OverworrldTest/collision mask/Object_8/ConvexPolygon (5)/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400066: _MapPrfab/OverworrldTest/collision mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400068: _MapPrfab/OverworrldTest/collision mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400070: _MapPrfab/OverworrldTest/collision mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400072: _MapPrfab/OverworrldTest/collision mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400074: _MapPrfab/OverworrldTest/collision mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400076: _MapPrfab/OverworrldTest/collision mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/OverworrldTest/collision mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400080: _MapPrfab/OverworrldTest/collision mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400082: _MapPrfab/OverworrldTest/collision mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/OverworrldTest/Collisions/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400086: _MapPrfab/OverworrldTest/Collisions/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400088: _MapPrfab/OverworrldTest/Ground/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400090: _MapPrfab/OverworrldTest/Ground/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400092: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/OverworrldTest/Grid
+    3664157343022684176: _MapPrfab/OverworrldTest/Collisions/TilemapRenderer
+    3664157343022684178: _MapPrfab/OverworrldTest/Ground/TilemapRenderer
+    8195094279510102542: _MapPrfab/OverworrldTest/Collisions/Tilemap
+    8195094279510102544: _MapPrfab/OverworrldTest/Ground/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Could not find tile 406. Your imported map will have holes until this is fixed.
+  - Could not find tile 1201. Your imported map will have holes until this is fixed.
+  - Could not find tile 1202. Your imported map will have holes until this is fixed.
+  - Could not find tile 1203. Your imported map will have holes until this is fixed.
+  - Could not find tile 1241. Your imported map will have holes until this is fixed.
+  - Could not find tile 1282. Your imported map will have holes until this is fixed.
+  - Could not find tile 1321. Your imported map will have holes until this is fixed.
+  - Could not find tile 1163. Your imported map will have holes until this is fixed.
+  - Could not find tile 1162. Your imported map will have holes until this is fixed.
+  - Could not find tile 1281. Your imported map will have holes until this is fixed.
+  - Could not find tile 1242. Your imported map will have holes until this is fixed.
+  - Could not find tile 1322. Your imported map will have holes until this is fixed.
+  - Could not find tile 1243. Your imported map will have holes until this is fixed.
+  - Could not find tile 522. Your imported map will have holes until this is fixed.
+  - Could not find tile 523. Your imported map will have holes until this is fixed.
+  - Could not find tile 524. Your imported map will have holes until this is fixed.
+  - Could not find tile 562. Your imported map will have holes until this is fixed.
+  - Could not find tile 564. Your imported map will have holes until this is fixed.
+  - Could not find tile 214. Your imported map will have holes until this is fixed.
+  - Could not find tile 215. Your imported map will have holes until this is fixed.
+  - Could not find tile 254. Your imported map will have holes until this is fixed.
+  - Could not find tile 255. Your imported map will have holes until this is fixed.
+  - Could not find tile 294. Your imported map will have holes until this is fixed.
+  - Could not find tile 295. Your imported map will have holes until this is fixed.
+  - Could not find tile 383. Your imported map will have holes until this is fixed.
+  - Could not find tile 384. Your imported map will have holes until this is fixed.
+  - Could not find tile 385. Your imported map will have holes until this is fixed.
+  - Could not find tile 423. Your imported map will have holes until this is fixed.
+  - Could not find tile 424. Your imported map will have holes until this is fixed.
+  - Could not find tile 425. Your imported map will have holes until this is fixed.
+  - Could not find tile 463. Your imported map will have holes until this is fixed.
+  - Could not find tile 464. Your imported map will have holes until this is fixed.
+  - Could not find tile 465. Your imported map will have holes until this is fixed.
+  - Could not find tile 7. Your imported map will have holes until this is fixed.
+  - Could not find tile 8. Your imported map will have holes until this is fixed.
+  - Could not find tile 9. Your imported map will have holes until this is fixed.
+  - Could not find tile 10. Your imported map will have holes until this is fixed.
+  - Could not find tile 11. Your imported map will have holes until this is fixed.
+  - Could not find tile 47. Your imported map will have holes until this is fixed.
+  - Could not find tile 48. Your imported map will have holes until this is fixed.
+  - Could not find tile 49. Your imported map will have holes until this is fixed.
+  - Could not find tile 50. Your imported map will have holes until this is fixed.
+  - Could not find tile 51. Your imported map will have holes until this is fixed.
+  - Could not find tile 87. Your imported map will have holes until this is fixed.
+  - Could not find tile 88. Your imported map will have holes until this is fixed.
+  - Could not find tile 89. Your imported map will have holes until this is fixed.
+  - Could not find tile 90. Your imported map will have holes until this is fixed.
+  - Could not find tile 91. Your imported map will have holes until this is fixed.
+  - Could not find tile 127. Your imported map will have holes until this is fixed.
+  - Could not find tile 128. Your imported map will have holes until this is fixed.
+  - Could not find tile 129. Your imported map will have holes until this is fixed.
+  - Could not find tile 130. Your imported map will have holes until this is fixed.
+  - Could not find tile 131. Your imported map will have holes until this is fixed.
+  - Could not find tile 167. Your imported map will have holes until this is fixed.
+  - Could not find tile 168. Your imported map will have holes until this is fixed.
+  - Could not find tile 169. Your imported map will have holes until this is fixed.
+  - Could not find tile 170. Your imported map will have holes until this is fixed.
+  - Could not find tile 171. Your imported map will have holes until this is fixed.
+  - Could not find tile 204. Your imported map will have holes until this is fixed.
+  - Could not find tile 205. Your imported map will have holes until this is fixed.
+  - Could not find tile 206. Your imported map will have holes until this is fixed.
+  - Could not find tile 602. Your imported map will have holes until this is fixed.
+  - Could not find tile 603. Your imported map will have holes until this is fixed.
+  - Could not find tile 604. Your imported map will have holes until this is fixed.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
